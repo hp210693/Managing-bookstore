@@ -1,0 +1,171 @@
+5
+555
+Toan
+Khu A
+5
+5559
+Toan 6
+40000
+Nguyen
+GD
+2010
+5551
+Toan 7
+45000
+Nguyen An
+TT
+2010
+5552
+Toan 8
+50000
+Nguyen Vu
+TT
+2012
+5558
+Toan 11
+42000
+Tran An
+TT
+2000
+5556
+Toan 12
+50000
+Nguyen Thi
+TT
+2013
+444
+Ly
+Khu B
+5
+4449
+Ly 10
+30000
+Nguyen Hoa
+GD
+2010
+4441
+Ly 7
+30000
+Nguyen Anh
+TT
+2000
+4442
+Ly 9
+40000
+Tran Trong
+GD
+2006
+4448
+Ly 12
+50000
+Nguyen Hoa
+TT
+2011
+4446
+Ly 11
+40000
+Nguyen
+TT
+2000
+333
+Hoa
+Khu C
+5
+3339
+Hoa 9
+30000
+Nguyen
+GD
+2013
+3331
+Hoa 10
+35000
+Tran Ha
+TT
+2000
+3332
+Hoa 11
+40000
+Nguyen
+GD
+2010
+3338
+Hoa 12
+40000
+Nguyen Tuan
+GD
+2010
+3336
+Hoa Vo Co
+60000
+Nguyen Binh
+DH
+2009
+111
+Tieng anh
+Khu D
+5
+1111
+Tieng Anh 6
+30000
+Vu Thi
+TT
+2000
+1112
+Tieng anh 7
+35000
+Nguyen
+GD
+2000
+1116
+Tieng anh 8
+40000
+Thanh Phung
+GD
+2001
+1118
+Tieng anh 10
+40000
+Nguyen Tu
+GD
+2005
+1119
+Tieng anh 12
+100000
+Nguyen
+TT
+2010
+222
+Tin hoc
+Khu E
+5
+2229
+C++
+70000
+Pham Khoa
+GD
+2000
+2222
+Java
+70000
+Nguyen
+DHBK
+2010
+2226
+C#
+90000
+Nguyen
+DHCN
+2010
+2228
+PHP
+50000
+Pham Tuan
+DH
+2000
+2221
+Vibe
+50000
+Hoang Anh
+GD
+2000
